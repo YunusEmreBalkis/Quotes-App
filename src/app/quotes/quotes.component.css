@@ -1,0 +1,33 @@
+body {
+    background-image: url(../ımages/backimage.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    
+    
+    
+}
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.con{
+    font-family: "Varela Round","Arial",Sans-Serif;
+    font-size: 23px;
+    line-height: 38px;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 35px;
+    margin-left: 0px;
+    letter-spacing: -1px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   padding: 15rem;
+    
+}
