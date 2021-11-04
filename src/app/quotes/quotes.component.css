@@ -16,7 +16,7 @@ body {
 }
 
 .con{
-    font-family: "Varela Round","Arial",Sans-Serif;
+    font-family: 'Antic Slab', serif;
     font-size: 23px;
     line-height: 38px;
     margin-top: 40px;
@@ -28,6 +28,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-   padding: 15rem;
+    text-shadow: 2px 1px 10px black;
+    max-width: 700px;
+    height: 80vh;
+    justify-content: center;
     
 }
